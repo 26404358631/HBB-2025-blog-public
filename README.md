@@ -1,4 +1,4 @@
-# 2025 Blog
+# 2025 Blog+1
 
 > 最新引导说明：https://www.yysuni.com/blog/readme
 
